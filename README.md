@@ -1,11 +1,11 @@
-# plantdiseasedetection
-
-plant-disease-detector
+# plant-disease-detector
 This project focuses on building an AI-powered system to detect plant diseases from leaf images using deep learning and deploying it as an interactive web application using Streamlit.
 
-Objective To help farmers and agricultural experts identify plant diseases early by analyzing leaf images with a simple camera interface or file upload — reducing crop loss and enabling timely treatment.
+Objective
+To help farmers and agricultural experts identify plant diseases early by analyzing leaf images with a simple camera interface or file upload — reducing crop loss and enabling timely treatment.
 
-Workflow Overview Dataset Used
+Workflow Overview
+Dataset Used
 
 PlantVillage Dataset from Kaggle
 
@@ -49,7 +49,8 @@ Hosted as a free, online application accessible from any browser
 
 No Python installation required — shareable via link
 
-Technologies Used Python, TensorFlow, Keras
+Technologies Used
+Python, TensorFlow, Keras
 
 MobileNetV2 (pretrained model)
 
@@ -59,7 +60,8 @@ PIL, NumPy (image processing)
 
 PyInstaller (for local executable version)
 
-Outcome A working AI web app for plant disease detection
+Outcome
+A working AI web app for plant disease detection
 
 Can be used by farmers, students, or researchers
 
